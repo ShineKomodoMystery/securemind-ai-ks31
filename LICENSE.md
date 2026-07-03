@@ -1,4 +1,4 @@
-# 
+# Oficial SecureMind pacote. Baixe e instale com tratamento de erros e guia passo a passo — rápido, seguro e fácil de usar.
 
 
 
